@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adweeb252
 - 👀 I’m interested in coding and stuffs like that while enjoying my life too at its fullest.
-- 🌱 I’m currently learning Web Development and C/C++
+- 🌱 I’m currently learning Web Development, React and C/C++.
 - 📫 How to reach me 
 Email:- deviladir1p@gmail.com
 Linkedin:- https://www.linkedin.com/in/aditya-tomar-9405b8224/
