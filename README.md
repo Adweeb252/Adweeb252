@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and stuffs like that while enjoying my life too at its fullest.
 - 🌱 I’m currently learning Node, React and C/C++.
 - 📫 How to reach me 
-Email:- deviladir1p@gmail.com
+Email:- aditya252tomar@gmail.com
 Linkedin:- https://www.linkedin.com/in/aditya-tomar-9405b8224/
 
 <!---
